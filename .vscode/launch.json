@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - UF",
+      "request": "launch",
+      "mainClass": "UF",
+      "projectName": "UnionFind",
+      "console": "integratedTerminal"
+    }
+  ]
+}
